@@ -100,6 +100,11 @@ a:hover {
   color: var(--primary-700);
 }
 
+/* Utilities */
+.text-center {
+  text-align: center;
+}
+
 /* Container */
 .container {
   max-width: 1200px;
@@ -502,6 +507,7 @@ section {
 
 .detail-hero-content {
   flex: 1;
+  text-align: center;
 }
 
 .detail-hero-content h1 {
